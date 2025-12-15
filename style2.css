@@ -1,0 +1,88 @@
+body{
+  background:#cad3f9;
+}
+.hvr{
+  margin-top: 40px;
+  padding:20px;
+  background:#9daee1 ;
+  border-radius: 5px;
+  box-shadow: 0 0 10px blue;
+  font-family: Georgia;
+  border: solid 2px black;
+  filter: blur(2px);
+}
+.hvr:hover{
+  scale: 1.1;
+  margin-top: 100px;
+  padding:30px;
+  background:white ;
+  border-radius: 5px;
+  box-shadow: 0 0 10px blue;
+  font-family: Georgia;
+  border: solid 2px black;
+  filter: none;
+  margin-left:30px;
+  margin-right: 30px;
+}
+button{
+  
+  font-weight: bold;
+  font-size: 20px;
+  color:white;
+  background-color:#4282da;
+  border-radius: 5px;
+  display: flex;
+  margin-top: 150px;
+  margin-left: 75px;
+  margin-right: 100px;
+  border: solid 1px black;
+  height: 45px;
+  width: 200px;
+  text-align: center;
+  
+  
+}
+button:active{
+  background: white;
+  .atn{
+    color: black;
+  }
+  .atn1{
+    color: black;  
+  }
+}
+.atn{
+  text-align: center;
+  margin-left: 65px;
+  margin-top: 10px;
+}
+.atn1{
+  text-align: center;
+  margin-left: 35px;
+  margin-top: 10px;
+}
+.hvr2{
+  margin-top: 40px;
+  padding:20px;
+  background:#9daee1 ;
+  border-radius: 5px;
+  box-shadow: 0 0 10px blue;
+  font-family: Georgia;
+  border: solid 2px black;
+  filter: blur(2px);
+}
+.hvr2:hover{
+  scale: 1.1;
+  margin-top: 100px;
+  padding:30px;
+  background:white ;
+  border-radius: 5px;
+  box-shadow: 0 0 10px blue;
+  font-family: Georgia;
+  border: solid 2px black;
+  filter: none;
+  margin-left:30px;
+  margin-right: 30px;
+  filter: none;
+  margin-bottom: 40px;
+}

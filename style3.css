@@ -1,0 +1,37 @@
+body{
+  background:#cad3f9;
+  font-family: Sans-Serif;
+  
+}
+.contact{
+  margin-top: 250px;
+  padding:20px;
+  background:#9daee1 ;
+  border-radius: 5px;
+  box-shadow: 0 0 10px blue;
+  font-family: Georgia;
+  border: solid 2px black;
+  
+}
+.titre{
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  font-size: 30px;
+}
+.contact:hover
+{
+  scale: 1.1;
+  margin-left: 20px;
+  margin-right: 20px;
+  background:white;
+  .titre{
+    color: black;
+  }
+
+}
+.outil{
+  margin-top: 20px;
+  text-align: center;
+  
+}
